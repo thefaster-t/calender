@@ -1,7 +1,8 @@
 
 int getdata(int choice)
+	
 {
-	int bookID;
+
 	gotoxy(20,3);printf("Enter the Information Below");
 	gotoxy(20,4);printf("\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2");
 	gotoxy(20,5);
